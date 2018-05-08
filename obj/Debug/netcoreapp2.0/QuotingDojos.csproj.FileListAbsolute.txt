@@ -1,0 +1,10 @@
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/QuotingDojos/bin/Debug/netcoreapp2.0/QuotingDojos.deps.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/QuotingDojos/bin/Debug/netcoreapp2.0/QuotingDojos.runtimeconfig.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/QuotingDojos/bin/Debug/netcoreapp2.0/QuotingDojos.runtimeconfig.dev.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/QuotingDojos/bin/Debug/netcoreapp2.0/QuotingDojos.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/QuotingDojos/bin/Debug/netcoreapp2.0/QuotingDojos.pdb
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/QuotingDojos/obj/Debug/netcoreapp2.0/QuotingDojos.csproj.CoreCompileInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/QuotingDojos/obj/Debug/netcoreapp2.0/QuotingDojos.AssemblyInfoInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/QuotingDojos/obj/Debug/netcoreapp2.0/QuotingDojos.AssemblyInfo.cs
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/QuotingDojos/obj/Debug/netcoreapp2.0/QuotingDojos.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/QuotingDojos/obj/Debug/netcoreapp2.0/QuotingDojos.pdb
